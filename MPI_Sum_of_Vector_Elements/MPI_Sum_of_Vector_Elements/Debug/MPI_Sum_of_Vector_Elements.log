@@ -1,3 +1,5 @@
 ﻿  main.cpp
+d:\vsworkspace\mpi_sum_of_vector_elements\mpi_sum_of_vector_elements\main.cpp(9): warning C4101: 'message': unreferenced local variable
+d:\vsworkspace\mpi_sum_of_vector_elements\mpi_sum_of_vector_elements\main.cpp(9): warning C4101: 'partner': unreferenced local variable
   MPI_Sum_of_Vector_Elements.vcxproj -> D:\vsworkspace\MPI_Sum_of_Vector_Elements\Debug\MPI_Sum_of_Vector_Elements.exe
   MPI_Sum_of_Vector_Elements.vcxproj -> D:\vsworkspace\MPI_Sum_of_Vector_Elements\Debug\MPI_Sum_of_Vector_Elements.pdb (Full PDB)
